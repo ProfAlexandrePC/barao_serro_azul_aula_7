@@ -17,6 +17,7 @@
     --cor-superficie: #1e1e1e;
     --cor-card: #2b2530;
 }
+
 body {
     background-color: var(--cor-fundo);
     color: var(--cor-texto);
