@@ -19,6 +19,7 @@
     --cor-card: #2b2530;
 }
 
+
 body {
     background-color: var(--cor-fundo);
     color: var(--cor-texto);
